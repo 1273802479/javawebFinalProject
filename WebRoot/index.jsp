@@ -12,7 +12,7 @@
 <head>
 <base href="<%=basePath%>">
 
-<title>欢迎光临我的购物网站</title>
+<title>欢迎光临我们的购物网站</title>
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="expires" content="0">

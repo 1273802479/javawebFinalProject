@@ -193,7 +193,7 @@ a:hover {
 				</h2></li>
 			<li id="mainCate-1" class="mainCate">
 				<h3>
-					<span>&gt;</span>用户管理</a>
+					<span>&gt;</span>用户管理
 				</h3>
 				<p>
 					<a href="searchuser.jsp">查询用户</a><a href="regist.jsp">添加用户</a>
@@ -204,7 +204,7 @@ a:hover {
 			</li>
 			<li id="mainCate-2" class="mainCate evenLeval">
 				<h3>
-					<span>&gt;</span>商品管理</a>
+					<span>&gt;</span>商品管理
 				</h3>
 				<p>
 					<a href="goodstype_doSearchByType.action">查找商品类</a><a
@@ -221,7 +221,7 @@ a:hover {
 			</li>
 			<li id="mainCate-3" class="mainCate">
 				<h3>
-					<span>&gt;</span>订单管理</a>
+					<span>&gt;</span>订单管理
 				</h3>
 				<p>
 					<a href="order_doSearchAllOrder.action">修改订单状态</a>

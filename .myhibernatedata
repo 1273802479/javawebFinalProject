@@ -22,3 +22,6 @@ reSettingsFile=
 configFile=/MyStore/src/hibernate.cfg.xml
 createConfigFile=true
 addLibs2Classpath=true
+
+
+
